@@ -5,3 +5,5 @@
 ##### You guessed it: header 5!
 ###### The lowest level of header is header 6
 And here is some text that is not a header.
+
+![Here is a picture of a duck](https://wallpapercave.com/wp/5PaCHum.jpg)
