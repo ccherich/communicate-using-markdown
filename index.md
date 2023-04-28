@@ -7,3 +7,10 @@
 And here is some text that is not a header.
 
 ![Here is a picture of a duck](https://wallpapercave.com/wp/5PaCHum.jpg)
+
+```
+// Some code here:
+foreach (my_queue[i]) begin
+  my_queue[i]++;
+end
+```
